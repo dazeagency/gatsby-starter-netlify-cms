@@ -8,6 +8,7 @@ const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet title="Home | Gatsby + Netlify CMS" />
     <Navbar />
+    <h1>Ula la</h1>
     <div>{children}</div>
   </div>
 )
